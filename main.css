@@ -4,7 +4,7 @@
 }
 header{
   display: block;
-  justify-content: center;
+  text-align: center;
 
 }
 .list-1 {
@@ -14,7 +14,10 @@ header{
 }
 h1 {
   color: pink;
-  background-image: lineargradient(45deg, white, yellow, blue);
+  
+}
+button {
+  background: linear-gradient(45deg, deeppink, pink, white);
 }
 button:hover {
   cursor: pointer; 
