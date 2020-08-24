@@ -1,0 +1,28 @@
+#head-img {
+  background-image: url(https://media2.giphy.com/media/3o6vXRxrhj7Ov94Gbu/giphy.gif?fingerprint=e1bb72ff59cd3d622e5144754d6dc053) ;
+
+}
+header{
+  display: block;
+  justify-content: center;
+
+}
+.list-1 {
+  display: block;
+  border-style: solid;
+  border-color: pink;
+}
+h1 {
+  color: pink;
+  background-image: lineargradient(45deg, white, yellow, blue);
+}
+button:hover {
+  cursor: pointer; 
+  box-shadow: 2px 4px 6px -2px;
+}
+a {
+  color: deeppink;
+}
+a:hover {
+  color: lightpink;
+}
